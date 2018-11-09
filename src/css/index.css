@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #1E1E1E;
+}
+#ninja{
+    position: absolute;
+    left: 50%;
+    margin-left: -320px;
+    top:50px;
+    background: url('../images/background.jpg');
+}
