@@ -23,6 +23,7 @@ Html5、面向对象、中介者模式、场景管理器、canvas应用
 #### 游戏选择界面
 
 <img src="https://github.com/Chzfly/FruitNinja/blob/master/captures/start.jpg" width="300"/>
+
 #### 游戏进行界面
 
 <img src="https://github.com/Chzfly/FruitNinja/blob/master/captures/gaming.jpg" width="300"/>
