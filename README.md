@@ -1,10 +1,8 @@
 # FruitNinja
-A object-oriented javascript project that applies algorithm.
-
-## FruitNinja小游戏
+## 简单还原水果忍着小游戏
 
 ------
-Html5、面向对象、中介者模式、场景管理器、canvas应用
+Html5、面向对象、中介者模式、场景管理器、canvas应用、算法练习
 
 
 > * 游戏首页
