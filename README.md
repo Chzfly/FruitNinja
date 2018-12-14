@@ -20,4 +20,4 @@ Html5、面向对象、中介者模式、场景管理器、canvas应用
 
 ### 项目展示
 
-<img src="https://github.com/Chzfly/FruitNinja/blob/master/captures/show2.gif">
+<img src="https://github.com/Chzfly/FruitNinja/blob/master/captures/show2.gif" width="400">
